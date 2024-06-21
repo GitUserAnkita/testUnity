@@ -1,21 +1,32 @@
-# testUnity assignment
-This project is a React application that demonstrates fetching data using fetch and axios, displaying network requests, and filtering requests by type. It includes functionality for GET method and displays detailed information about request.
+# DevTools Replica
 
-Features:-
--> Fetch data using fetch and axios libraries.
--> Display network requests in a table format.
--> Filter requests by type (fetch, axios, post, put, doc, js).
--> Show detailed request information including URL, method, type, status, headers, and data payload.
+This project replicates basic functionalities of Google Chrome's DevTools.
 
+## Setup
 
-Install dependencies:-
-npm install
+1. Clone the repository:
+    sh
+    git clone https://github.com/GitUserAnkita/testUnity.git
+    
+2. Navigate to the project directory:
+    sh
+    cd testUnity-main
+    
+3. Install dependencies:
+    sh
+    npm install
+    
+4. Start the development server:
+    sh
+    npm run dev
+    
 
-Start the development server:-
-npm run dev
+## Features
 
+- Monitors network requests (XHR, fetch, JS, Doc)
+- Displays detailed information about each request
+- Filters requests by type (fetch, JS, Axios, Doc)
 
-Technologies Used
-React.js
-axios
-HTML/CSS
+## Notes
+
+This is a simplified version and does not include all the features of Chrome DevTools.
