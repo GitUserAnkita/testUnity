@@ -1,8 +1,21 @@
-# React + Vite
+# testUnity assignment
+This project is a React application that demonstrates fetching data using fetch and axios, displaying network requests, and filtering requests by type. It includes functionality for GET method and displays detailed information about request.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:-
+-> Fetch data using fetch and axios libraries.
+-> Display network requests in a table format.
+-> Filter requests by type (fetch, axios, post, put, doc, js).
+-> Show detailed request information including URL, method, type, status, headers, and data payload.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install dependencies:-
+npm install
+
+Start the development server:-
+npm run dev
+
+
+Technologies Used
+React.js
+axios
+HTML/CSS
