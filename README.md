@@ -27,6 +27,9 @@ This project replicates basic functionalities of Google Chrome's DevTools.
 - Displays detailed information about each request
 - Filters requests by type (fetch, JS, Axios, Doc)
 
+## deployment-link
+https://chrome-dev-tool-testunity.netlify.app/
+
 ## Notes
 
 This is a simplified version and does not include all the features of Chrome DevTools.
